@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 176
+slug  : 0root-ai-toroid-builder
+seal  : 2c923e8050704ad4a88879b51e89e5e620e5034836d9b447b6eadd5bc1ff6dcc
+prev  : 8a7e14ab82b087cbe3dbfcb6b9daca6aee178b29b67459c40d899d9be784ab6c
+link  : 2306f5e45b7715dcba3ea15d3c615851424dd60dcb5c6e49468f4377a2e41fe8
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
